@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Rohit Jain, a Software Developer.
+Hi, I'm Sumedh Waghmare, a Software Developer.
 I love automating stuff.
 
  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
